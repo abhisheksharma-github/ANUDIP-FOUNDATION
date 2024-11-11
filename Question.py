@@ -1,7 +1,7 @@
 #QUESTION NO 1
 p = float(input("Principal: "))
 r = float(input("Rate: "))
-t = float(input("Time: "))15
+t = float(input("Time: "))
 
 
 si = (p * r * t) / 100
