@@ -24,5 +24,3 @@ if (side_a > 0) and (side_b > 0) and (side_c > 0):
             
     else:
         print("These sides cannot form a triangle.")
-else:
-    print("The sides must be greater than zero.")
