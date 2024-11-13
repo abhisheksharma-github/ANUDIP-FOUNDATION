@@ -3,9 +3,9 @@ num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 num3 = int(input("Enter the third number: "))
 
-print("First Number:,num1")
-print("Second Number:,num2")
-print("Third Number:,num3")
+print("First Number:",num1)
+print("Second Number:",num2)
+print("Third Number:",num3)
 # Finding the greatest number using nested if-else
 if num1 >= num2:
     if num1 >= num3:
